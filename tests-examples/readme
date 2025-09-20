@@ -1,0 +1,10 @@
+# Playwright Web Automation Project
+
+## 📌 Project Overview
+This project is about implementing **Web Automation** for a public web application that contains different widgets.  
+It is designed using the **Page Object Model (POM)** to ensure better maintainability, reusability, and scalability of test scripts.
+
+## 🛠 Tech Stack
+- **Language:** JavaScript (Node.js)
+- **Automation Tool:** [Playwright](https://the-internet.herokuapp.com/)
+- **Test Runner:** Playwright Test
